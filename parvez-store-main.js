@@ -13695,7 +13695,7 @@
   // ============================================================
   // ✅ NEW: FCM VAPID key — Firebase Console → Project Settings → Cloud Messaging →
   // "Web Push certificates" থেকে জেনারেট করে এখানে বসাতে হবে
-  const FCM_VAPID_KEY = "PASTE_YOUR_VAPID_KEY_HERE";
+  const FCM_VAPID_KEY = "BPVVbIpuvn2x7392qvm_LX9JZflTt3Y7eESnok5fTAdmN1xea1Cy1QpD5X6CngGPl4hDmGVmpcxqS-zxeu-XN-c";
 
   // ✅ NEW: আসল push token নিয়ে Firestore-এ সেভ করা — এটাই সার্ভার (Cloud Function) থেকে
   // পাঠানো নোটিফিকেশন অ্যাপ বন্ধ থাকলেও পাওয়ার জন্য প্রয়োজনীয়
